@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hey, I'm Sudhanshu Ranjan<br><br>🚀 Full-Stack Developer | Backend Enthusiast | B.Tech CSE Student<br><br>💻 Building scalable web apps with Java, React, Django & REST APIs  <br>🧠 Solving DSA problems and improving every day  <br>⚡ Passionate about backend architecture & real-world projects  <br><br>### 🌐 Connect With Me<br>- GitHub: https://github.com/sudhanshu-0109<br>- LinkedIn: https://www.linkedin.com/in/sudhanshu-ranjan-596358350<br>- LeetCode: https://leetcode.com/u/sudhanshuranjan0109/<br><br>> "Code. Learn. Build. Repeat." 🚀
+# 👋 Hey, I'm Sudhanshu Ranjan<br><br>🚀 Full-Stack Developer | Backend Enthusiast | B.Tech CSE Student<br><br>💻 Building scalable web apps with Java, React, Django & REST APIs  <br>🧠 Solving DSA problems and improving every day  <br>⚡ Passionate about backend architecture & real-world projects  <br><br>### 🌐 Connect With Me<br>- GitHub: https://github.com/sudhanshu-0109<br>- LeetCode: https://leetcode.com/u/sudhanshuranjan0109/<br><br>> "Code. Learn. Build. Repeat." 🚀
 
 
 ## 🌐 Socials:
