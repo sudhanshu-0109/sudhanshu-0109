@@ -40,6 +40,7 @@
 
 ### ⚙️ Backend & APIs
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
@@ -79,17 +80,8 @@
 # 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudhanshu-0109&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanshu-0109&theme=tokyonight&hide_border=true"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu-0109&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 # 🏆 GitHub Trophies
