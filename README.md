@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Sudhanshu
+# Hi there 👋 I'm Sudhanshu Ranjan
 
 <img align="right" width="380" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" />
 
